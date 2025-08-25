@@ -1,0 +1,11 @@
+# Ignore Python cache directories
+__pycache__/
+
+# Ignore environment configuration files
+*.env
+
+# Ignore Chrome profiles
+chrome_profiles/
+
+# Ignore Google API credentials
+credentials.json
